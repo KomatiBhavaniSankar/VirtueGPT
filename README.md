@@ -10,13 +10,7 @@ VirtueGPT is a **Streamlit-powered conversational AI** that provides philosophic
 
 In a world full of distractions, **virtue** stands as a timeless compass. VirtueGPT was built to bridge **ancient philosophy** with **modern AI**, offering a safe, reflective, and empathetic space for **self-discovery and wisdom**. Unlike simple Q\&A bots, VirtueGPT provides **philosophical insights** inspired by scripture and profound thinkers, encouraging deeper reflection rather than quick answers.
 
------
 
-## 🎥 Demo
-
-\<br\>
-
-🔗 [Click here to watch the VirtueGPT demo video](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3Dyour-video-link)
 
 -----
 
